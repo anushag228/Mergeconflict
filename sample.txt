@@ -1,2 +1,6 @@
 I M in first line
+<<<<<<< HEAD
 Modified line
+=======
+I m in second line
+>>>>>>> 168b0ba5d8ffc9bde6f64033fc05fef27d187795
